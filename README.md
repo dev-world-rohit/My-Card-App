@@ -1,16 +1,10 @@
-# mi_card
+# mi_card App
+`mi_card` is a simplest and my first mobile app. This app show the information about the person (like name, roles, contact details etc.)
 
-A new Flutter project.
+![image](https://github.com/dev-world-rohit/My-Card-App/assets/136791205/296b7f2c-5407-4145-912c-b9341002dec7)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What I have Learned by Making this Project
+1. Basics of flutter
+2. Containers, Scafold, Column, Row etc. in flutter
+3. Using images in flutter
+4. Use of Icons, etc.
